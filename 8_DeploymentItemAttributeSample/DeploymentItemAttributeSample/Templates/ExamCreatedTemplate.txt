@@ -1,0 +1,5 @@
+<div>
+	Exam {Name} has been added to the exams catalog. <br />
+	Exam difficulty level {Level} <br />
+	Date the exam was added {DateAndTime}
+</div>

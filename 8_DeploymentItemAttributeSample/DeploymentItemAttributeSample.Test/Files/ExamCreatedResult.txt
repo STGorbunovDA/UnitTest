@@ -1,0 +1,5 @@
+<div>
+	Exam TestExam has been added to the exams catalog. <br />
+	Exam difficulty level Beginer <br />
+	Date the exam was added 01.01.2000
+</div>
